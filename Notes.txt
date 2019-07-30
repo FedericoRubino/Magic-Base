@@ -1,0 +1,6 @@
+Space to put notes
+
+A good place to insert links, ideas, future plans, etc.
+
+Link to an inspiring MTG project:
+https://github.com/MagicTheGathering/mtg-sdk-python
